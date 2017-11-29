@@ -1,0 +1,4 @@
+dn: uid=ahrytsen,ou=july,ou=2017,ou=people,dc=unit,dc=ua
+changetype: modify
+add: mobile
+mobile: +380974882992
